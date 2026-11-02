@@ -1,2 +1,33 @@
 
 /* Your CSS Code here. */
+body {
+    background-color: #1c1c1c;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: #f5c518;
+}
+
+.moviePic {
+    height: 350px;
+    width: 250px;
+    opacity: 0.9;
+    display: block;
+    margin: 20px auto;
+    border-radius: 8px;
+}
+
+.movieDetail {
+    position: relative;
+    top: 10px;
+    width: 60%;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 18px;
+    line-height: 1.6;
+    color: #eeeeee;
+}
+
